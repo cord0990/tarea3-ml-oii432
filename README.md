@@ -26,7 +26,7 @@ Profesor: Carlos Valle
 | Integrante | A cargo de |
 |---|---|
 | *Diego Cordova Cifuentes* | Por ver |
-| *Macarena* | Por ver |
+| *Macarena Catalan Castro* | Por ver |
 | *Isaias* | Por ver |
 | *Alfonso* | Por ver |
 
